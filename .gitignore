@@ -1,0 +1,14 @@
+# Ignore personal WHY file
+notes/why.txt
+
+# Node modules (if you're doing React)
+node_modules/
+
+# Java build files (for Spring)
+target/
+*.class
+*.jar
+
+# OS files
+.DS_Store
+Thumbs.db
